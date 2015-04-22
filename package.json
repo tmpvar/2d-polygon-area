@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tmpvar/2d-polygon-area/issues"
   },
-  "homepage": "https://github.com/tmpvar/2d-polygon-area"
+  "homepage": "https://github.com/tmpvar/2d-polygon-area",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
 }
