@@ -1,0 +1,24 @@
+{
+  "name": "2d-polygon-area",
+  "version": "0.0.0",
+  "description": "compute the area of a 2d polygon",
+  "main": "2d-polygon-area.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/2d-polygon-area.git"
+  },
+  "keywords": [
+    "2d",
+    "polygon",
+    "area"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/2d-polygon-area/issues"
+  },
+  "homepage": "https://github.com/tmpvar/2d-polygon-area"
+}
