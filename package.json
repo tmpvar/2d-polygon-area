@@ -1,6 +1,6 @@
 {
   "name": "2d-polygon-area",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "compute the area of a 2d polygon",
   "main": "2d-polygon-area.js",
   "scripts": {
